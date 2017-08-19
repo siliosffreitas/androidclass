@@ -92,12 +92,13 @@ public class MainActivity extends AppCompatActivity {
 
         if(requestCode == 2 && resultCode == RESULT_OK) {
             pesquisa = data.getExtras().getString("livro");
+            setTitle("Ebooks sobre "+pesquisa);
             buscarLivros(pesquisa);
         }
     }
 
 
-    private void buscarLivros(String busca) {
+    private void buscarLivros( String busca) {
 
         Call<ResponseBook> requestCountBusOn = service.searchBooks(busca);
         requestCountBusOn.enqueue(new Callback<ResponseBook>() {
@@ -107,6 +108,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onResponse(Call<ResponseBook> call, Response<ResponseBook> response) {
                 if (response.isSuccessful()) {
+
                     Log.i("onResponse.ok", "code "+response.message());
                     List<Book> books = response.body().getBooks();
                     adapter = new BookAdapter(books);
