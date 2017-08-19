@@ -1,0 +1,165 @@
+[
+    {
+        "outputFile": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 30,
+                    "endColumn": 19,
+                    "endOffset": 954
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 31,
+                        "endColumn": 19,
+                        "endOffset": 955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 959,
+                    "endColumn": 57,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 55,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 52,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endColumn": 52,
+                        "endOffset": 1131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 64,
+                    "endOffset": 1186
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 64,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1191,
+                    "endColumn": 52,
+                    "endOffset": 1239
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 52,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1244,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 1530
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1535,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 1690
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

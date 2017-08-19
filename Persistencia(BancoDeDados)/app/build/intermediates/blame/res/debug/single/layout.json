@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/res/merged/debug/layout/listview_simples.xml",
+        "source": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/layout/listview_simples.xml"
+    },
+    {
+        "merged": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/res/merged/debug/layout/item_listview_customizado.xml",
+        "source": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/layout/item_listview_customizado.xml"
+    },
+    {
+        "merged": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/res/merged/debug/layout/activity_cadastro_linguagem.xml",
+        "source": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/layout/activity_cadastro_linguagem.xml"
+    },
+    {
+        "merged": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/res/merged/debug/layout/activity_pesquisa.xml",
+        "source": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/layout/activity_pesquisa.xml"
+    },
+    {
+        "merged": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/res/merged/debug/layout/listview_customizado.xml",
+        "source": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/layout/listview_customizado.xml"
+    }
+]

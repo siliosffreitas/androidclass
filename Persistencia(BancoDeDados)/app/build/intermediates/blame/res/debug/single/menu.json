@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/res/merged/debug/menu/menu_cadastro.xml",
+        "source": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/menu/menu_cadastro.xml"
+    },
+    {
+        "merged": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/res/merged/debug/menu/main_context.xml",
+        "source": "/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/src/main/res/menu/main_context.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Thu Aug 17 22:29:25 BRT 2017
+base.0=/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_80805d505c74af162106a21c8268bd131035058c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe86f4bbfed7b66308c8249ff1593fa1f3c4bd2f/classes.dex
+base.1=/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe86f4bbfed7b66308c8249ff1593fa1f3c4bd2f
+file.0=/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_80805d505c74af162106a21c8268bd131035058c/classes.dex

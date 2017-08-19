@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe86f4bbfed7b66308c8249ff1593fa1f3c4bd2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b2f14010e61f3da7beea3ca271b496410e45f20">
+        <dex dex="/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_80805d505c74af162106a21c8268bd131035058c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/silio/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/silio/Documents/workspace/Android/Persistencia(BancoDeDados)/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_34cf036bce091cae90c9ade92e017c648873361b/classes.dex" />
+    </item>
+
+</items>

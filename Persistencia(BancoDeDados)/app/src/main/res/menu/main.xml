@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.cab.aula10.listviews.MainActivity" >
+
+    <item
+        android:id="@+id/action_add"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Nova Linguagem"/>
+
+    <item
+        android:id="@+id/action_search"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Pesquisar"/>
+    
+</menu>
