@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "/Users/silio/Documents/workspace/Android/Welcome Internaciolização/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Welcome Internaciolização/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 44,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Welcome Internaciolização/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 39,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Welcome Internaciolização/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 39,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 58,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Welcome Internaciolização/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 58,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 53,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Welcome Internaciolização/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 53,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 44,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "/Users/silio/Documents/workspace/Android/Welcome Internaciolização/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 44,
+                        "endOffset": 293
+                    }
+                }
+            }
+        ]
+    }
+]

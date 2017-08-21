@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Welcome</string>
+    <string name="action_settings">Configurações</string>
+    
+    <string name="type_name">Entre com seu nome:</string>
+    <string name="enter">Entrar</string>
+    <string name="welcome">Bem Vindo,</string>
+    <string name="request_name">Informe seu nome</string>
+</resources>
